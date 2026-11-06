@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "permissions": {
+    "allow": [
+      "Bash(node:*)",
+      "Bash(node *)",
+      "Bash(npm:*)",
+      "Bash(npm *)",
+      "Bash(npx:*)",
+      "Bash(npx *)",
+      "Bash(mvn:*)",
+      "Bash(mvn *)",
+      "Bash(java:*)",
+      "Bash(java *)",
+      "Bash(mysql:*)",
+      "Bash(mysql *)",
+      "Bash(mysqld:*)",
+      "Bash(mysqld *)",
+      "Bash(curl:*)",
+      "Bash(curl *)",
+      "Bash(netstat:*)",
+      "Bash(netstat *)",
+      "Bash(taskkill:*)",
+      "Bash(taskkill *)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(cat:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(wc:*)",
+      "Bash(sed:*)",
+      "Bash(echo:*)",
+      "Bash(date:*)",
+      "Bash(sleep:*)",
+      "Bash(jq:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)"
+    ],
+    "deny": [
+      "Bash(rm -rf *)",
+      "Bash(rm -rf:*)"
+    ]
+  }
+}

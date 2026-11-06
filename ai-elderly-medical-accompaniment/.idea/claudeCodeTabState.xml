@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeTabState">
+    <option name="tabSessions">
+      <map>
+        <entry key="0">
+          <value>
+            <TabSessionState>
+              <option name="provider" value="claude" />
+              <option name="sessionId" value="9608f6b8-93b3-492f-bc9c-983b4ff0cf69" />
+              <option name="cwd" value="C:\Users\admin\Desktop\AI赋能陪诊助医服务系统\ai-elderly-medical-accompaniment" />
+              <option name="model" value="claude-sonnet-5[1m]" />
+              <option name="permissionMode" value="auto" />
+            </TabSessionState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

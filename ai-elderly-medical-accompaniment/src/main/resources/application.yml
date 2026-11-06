@@ -1,0 +1,87 @@
+server:
+  port: 8080
+
+# CORS跨域白名单（allowCredentials=true 时禁止使用 "*"，生产环境通过环境变量配置实际域名）
+cors:
+  allowed-origins: ${CORS_ALLOWED_ORIGINS:http://localhost:5173}
+
+spring:
+  application:
+    name: escort-service
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/escort_db?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai&createDatabaseIfNotExist=true
+    username: root
+    password: ${DB_PASSWORD:root}
+  sql:
+    init:
+      mode: never
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: Asia/Shanghai
+    default-property-inclusion: non_null
+
+mybatis-plus:
+  mapper-locations: classpath*:/mapper/**/*.xml
+  global-config:
+    db-config:
+      id-type: auto
+      logic-delete-field: deleted
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    map-underscore-to-camel-case: true
+
+# JWT配置
+jwt:
+  secret: ${JWT_SECRET:escort-jwt-secret-key-2026-please-change-in-production}
+  expiration: 7200  # 2小时，单位秒
+
+# AI服务配置（占位符，以主流公开API为例，具体实现需参考对应官方文档）
+ai:
+  ocr:
+    base-url: ${AI_OCR_BASE_URL:http://localhost:9001/ocr}
+    api-key: ${AI_API_KEY:demo-api-key}
+    read-timeout-ms: 15000          # OCR识别通常较快，15秒超时
+  llm:
+    base-url: ${AI_LLM_BASE_URL:https://api.deepseek.com/v1}
+    api-key: ${AI_API_KEY:demo-api-key}
+    read-timeout-ms: 30000          # LLM生成耗时较长，30秒超时
+  connect-timeout-ms: 3000
+  max-retry: 3
+  retry-backoff-ms: 1000          # 指数倍乘：1s/2s/4s
+  circuit-failure-threshold: 5     # 连续失败5次进入降级
+  circuit-half-open-ms: 60000      # 60秒半开试探
+
+# 订单配置（模拟规则，非真实商业定价）
+order:
+  price:
+    base-per-hour: 50     # 基础陪诊，元/小时
+    exam-per-hour: 80     # 陪同检查，元/小时
+  cancel:
+    refund-rate: 0.8       # T10已接单取消退款比例（模拟规则）
+
+# 结算配置（模拟规则，非真实商业分账）
+settlement:
+  platform-rate: 0.20      # 平台抽成比例20%（模拟规则）
+
+# AES加密密钥（生产环境须使用KMS/环境变量注入，毕设演示使用本地配置）
+encrypt:
+  aes-key: ${AES_KEY:escort-aes-key-2026-demo}
+
+# Knife4j文档
+knife4j:
+  enable: true
+  setting:
+    language: zh_cn
+
+# 日志
+logging:
+  level:
+    com.example.escort: debug
+    com.baomidou.mybatisplus: info

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeTabState">
+    <option name="tabSessions">
+      <map>
+        <entry key="0">
+          <value>
+            <TabSessionState>
+              <option name="provider" value="claude" />
+              <option name="sessionId" value="6cb7d2f8-fcb8-46fd-a328-d34ead509b74" />
+              <option name="cwd" value="C:\Users\admin\Desktop\AI赋能陪诊助医服务系统" />
+              <option name="model" value="claude-sonnet-5[1m]" />
+              <option name="permissionMode" value="auto" />
+              <option name="reasoningEffort" value="max" />
+            </TabSessionState>
+          </value>
+        </entry>
+        <entry key="1">
+          <value>
+            <TabSessionState>
+              <option name="provider" value="claude" />
+              <option name="sessionId" value="e3cd7a8e-f40e-463a-ac57-94af9cce8b09" />
+              <option name="cwd" value="C:\Users\admin\Desktop\AI赋能陪诊助医服务系统" />
+              <option name="model" value="claude-sonnet-5[1m]" />
+              <option name="permissionMode" value="auto" />
+              <option name="reasoningEffort" value="max" />
+            </TabSessionState>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tabCount" value="2" />
+  </component>
+</project>

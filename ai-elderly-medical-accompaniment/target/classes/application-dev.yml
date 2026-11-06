@@ -1,0 +1,16 @@
+# ================================================================
+# 开发环境配置（mvn spring-boot:run -Pdev 激活）
+# 使用H2内存数据库，无需安装MySQL即可启动联调自测。
+# 生产部署请使用 application.yml（MySQL 8.0）。
+# ================================================================
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:escort_db;MODE=MySQL;DB_CLOSE_DELAY=-1;DEFAULT_NULL_ORDERING=HIGH
+    username: sa
+    password:
+  sql:
+    init:
+      mode: always
+      encoding: UTF-8
+      schema-locations: classpath:schema-h2.sql

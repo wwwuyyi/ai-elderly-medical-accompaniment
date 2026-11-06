@@ -1,0 +1,36 @@
+<mxfile host="app.diagrams.net" agent="thesis-review" version="24.0.0">
+  <diagram id="uc-escort" name="图3-2 陪诊师角色用例图">
+    <mxGraphModel dx="1000" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="boundary" value="AI赋能陪诊助医服务系统（陪诊师端）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="440" height="660" as="geometry"/>
+        </mxCell>
+        <mxCell id="actor" value="陪诊师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="330" width="40" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc1" value="UC-E-01 注册/登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1"><mxGeometry x="330" y="80" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc2" value="UC-E-02 提交资质申请" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1"><mxGeometry x="330" y="138" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc3" value="UC-E-03 浏览可接订单（接单大厅，派单制）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1"><mxGeometry x="330" y="196" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc4" value="UC-E-04 接单/拒单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1"><mxGeometry x="330" y="254" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc5" value="UC-E-05 执行服务（开始→拍照记录→结束）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1"><mxGeometry x="330" y="312" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc6" value="UC-E-06 发起OCR识别（修正确认）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1"><mxGeometry x="330" y="370" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc7" value="UC-E-07 查看订单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1"><mxGeometry x="330" y="428" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc8" value="UC-E-08 查看收入统计" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1"><mxGeometry x="330" y="486" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc9" value="UC-E-09 管理个人资料" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1"><mxGeometry x="330" y="544" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc10" value="UC-E-10 接收通知" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1"><mxGeometry x="330" y="602" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="e1" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc1"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e2" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc2"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e3" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc3"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e4" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc4"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e5" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc5"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e6" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc6"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e7" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc7"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e8" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc8"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e9" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc9"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e10" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc10"><mxGeometry relative="1" as="geometry"/></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

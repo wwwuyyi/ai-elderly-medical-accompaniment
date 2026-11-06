@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="thesis-review">
+  <diagram id="uc-family" name="图3-1 家属角色用例图">
+    <mxGraphModel dx="2334" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EuJQGL44bzaRzeNyLsOQ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="860" width="850" x="-500" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="boundary" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;fillColor=none;" value="AI赋能陪诊助医服务系统（家属端）" vertex="1">
+          <mxGeometry height="720" width="440" x="-270" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="actor" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="家属" vertex="1">
+          <mxGeometry height="80" width="40" x="-420" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="uc1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" value="UC-F-01 注册/登录" vertex="1">
+          <mxGeometry height="44" width="260" x="-180" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uc2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" value="UC-F-02 管理老人档案" vertex="1">
+          <mxGeometry height="44" width="260" x="-180" y="258" as="geometry" />
+        </mxCell>
+        <mxCell id="uc3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" value="UC-F-03 下单预约陪诊（3步向导）" vertex="1">
+          <mxGeometry height="44" width="260" x="-180" y="316" as="geometry" />
+        </mxCell>
+        <mxCell id="uc4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" value="UC-F-04 查看订单（详情+状态时间线）" vertex="1">
+          <mxGeometry height="44" width="260" x="-180" y="374" as="geometry" />
+        </mxCell>
+        <mxCell id="uc5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" value="UC-F-05 取消订单（含退款规则）" vertex="1">
+          <mxGeometry height="44" width="260" x="-180" y="432" as="geometry" />
+        </mxCell>
+        <mxCell id="uc6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" value="UC-F-06 评价服务（星级+文字）" vertex="1">
+          <mxGeometry height="44" width="260" x="-180" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="uc7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" value="UC-F-07 管理就医档案（含OCR结果）" vertex="1">
+          <mxGeometry height="44" width="260" x="-180" y="548" as="geometry" />
+        </mxCell>
+        <mxCell id="uc8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" value="UC-F-08 查看AI解读（含免责声明）" vertex="1">
+          <mxGeometry height="44" width="260" x="-180" y="606" as="geometry" />
+        </mxCell>
+        <mxCell id="uc9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" value="UC-F-09 查看就诊告知书（AI生成）" vertex="1">
+          <mxGeometry height="44" width="260" x="-180" y="664" as="geometry" />
+        </mxCell>
+        <mxCell id="uc10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" value="UC-F-10 接收通知" vertex="1">
+          <mxGeometry height="44" width="260" x="-180" y="722" as="geometry" />
+        </mxCell>
+        <mxCell id="uc11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" value="UC-F-11 AI健康咨询（SSE流式对话）" vertex="1">
+          <mxGeometry height="44" width="260" x="-180" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="actor" style="html=1;endArrow=none;" target="uc1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="actor" style="html=1;endArrow=none;" target="uc2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="actor" style="html=1;endArrow=none;" target="uc3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="actor" style="html=1;endArrow=none;" target="uc4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="actor" style="html=1;endArrow=none;" target="uc5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="actor" style="html=1;endArrow=none;" target="uc6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="actor" style="html=1;endArrow=none;" target="uc7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="actor" style="html=1;endArrow=none;" target="uc8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="actor" style="html=1;endArrow=none;" target="uc9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="actor" style="html=1;endArrow=none;" target="uc10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11" edge="1" parent="1" source="actor" style="html=1;endArrow=none;" target="uc11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

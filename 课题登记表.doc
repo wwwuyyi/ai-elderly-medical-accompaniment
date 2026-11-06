@@ -1,0 +1,2730 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">
+  <w:ignoreElements w:val="http://schemas.microsoft.com/office/word/2003/wordml/sp2"/>
+  <o:SmartTagType o:namespaceuri="urn:schemas-microsoft-com:office:smarttags" o:name="PersonName"/>
+  <o:DocumentProperties>
+    <o:Title>毕业论文（设计）课题登记表</o:Title>
+    <o:Author>szronge</o:Author>
+    <o:LastAuthor>acer</o:LastAuthor>
+    <o:Revision>2</o:Revision>
+    <o:TotalTime>0</o:TotalTime>
+    <o:LastPrinted>2004-10-18T00:19:00Z</o:LastPrinted>
+    <o:Created>2013-02-17T03:45:00Z</o:Created>
+    <o:LastSaved>2013-02-17T03:45:00Z</o:LastSaved>
+    <o:Pages>1</o:Pages>
+    <o:Words>69</o:Words>
+    <o:Characters>395</o:Characters>
+    <o:Company></o:Company>
+    <o:Lines>3</o:Lines>
+    <o:Paragraphs>1</o:Paragraphs>
+    <o:CharactersWithSpaces>463</o:CharactersWithSpaces>
+    <o:Version>11.0000</o:Version>
+  </o:DocumentProperties>
+  <w:fonts>
+    <w:defaultFonts w:ascii="Times New Roman" w:fareast="宋体" w:h-ansi="Times New Roman" w:cs="Times New Roman"/>
+    <w:font w:name="宋体">
+      <w:altName w:val="SimSun"/>
+      <w:panose-1 w:val="02010600030101010101"/>
+      <w:charset w:val="86"/>
+      <w:family w:val="Auto"/>
+      <w:pitch w:val="variable"/>
+      <w:sig w:usb-0="00000003" w:usb-1="288F0000" w:usb-2="00000016" w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000"/>
+    </w:font>
+    <w:font w:name="黑体">
+      <w:altName w:val="SimHei"/>
+      <w:panose-1 w:val="02010609060101010101"/>
+      <w:charset w:val="86"/>
+      <w:family w:val="Modern"/>
+      <w:pitch w:val="fixed"/>
+      <w:sig w:usb-0="800002BF" w:usb-1="38CF7CFA" w:usb-2="00000016" w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000"/>
+    </w:font>
+    <w:font w:name="@宋体">
+      <w:panose-1 w:val="02010600030101010101"/>
+      <w:charset w:val="86"/>
+      <w:family w:val="Auto"/>
+      <w:pitch w:val="variable"/>
+      <w:sig w:usb-0="00000003" w:usb-1="288F0000" w:usb-2="00000016" w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000"/>
+    </w:font>
+    <w:font w:name="@黑体">
+      <w:panose-1 w:val="02010609060101010101"/>
+      <w:charset w:val="86"/>
+      <w:family w:val="Modern"/>
+      <w:pitch w:val="fixed"/>
+      <w:sig w:usb-0="800002BF" w:usb-1="38CF7CFA" w:usb-2="00000016" w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000"/>
+    </w:font>
+  </w:fonts>
+  <w:lists>
+    <w:listDef w:listDefId="0">
+      <w:lsid w:val="52A84010"/>
+      <w:plt w:val="SingleLevel"/>
+      <w:tmpl w:val="E60E3690"/>
+      <w:lvl w:ilvl="0">
+        <w:start w:val="1"/>
+        <w:lvlText w:val="%1、"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="930"/>
+          </w:tabs>
+          <w:ind w:left="930" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:fareast="宋体" w:hint="fareast"/>
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="1">
+      <w:lsid w:val="5B0067A7"/>
+      <w:plt w:val="SingleLevel"/>
+      <w:tmpl w:val="4B927DDA"/>
+      <w:lvl w:ilvl="0">
+        <w:start w:val="1"/>
+        <w:lvlText w:val="%1、"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="360"/>
+          </w:tabs>
+          <w:ind w:left="360" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="fareast"/>
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:list w:ilfo="1">
+      <w:ilst w:val="0"/>
+    </w:list>
+    <w:list w:ilfo="2">
+      <w:ilst w:val="1"/>
+    </w:list>
+  </w:lists>
+  <w:styles>
+    <w:versionOfBuiltInStylenames w:val="4"/>
+    <w:latentStyles w:defLockedState="off" w:latentStyleCount="156"/>
+    <w:style w:type="paragraph" w:default="on" w:styleId="a">
+      <w:name w:val="Normal"/>
+      <wx:uiName wx:val="正文"/>
+      <w:pPr>
+        <w:widowControl w:val="off"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman"/>
+        <w:kern w:val="2"/>
+        <w:sz w:val="21"/>
+        <w:lang w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:default="on" w:styleId="a0">
+      <w:name w:val="Default Paragraph Font"/>
+      <wx:uiName wx:val="默认段落字体"/>
+      <w:semiHidden/>
+    </w:style>
+    <w:style w:type="table" w:default="on" w:styleId="a1">
+      <w:name w:val="Normal Table"/>
+      <wx:uiName wx:val="普通表格"/>
+      <w:semiHidden/>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman"/>
+      </w:rPr>
+      <w:tblPr>
+        <w:tblInd w:w="0" w:type="dxa"/>
+        <w:tblCellMar>
+          <w:top w:w="0" w:type="dxa"/>
+          <w:left w:w="108" w:type="dxa"/>
+          <w:bottom w:w="0" w:type="dxa"/>
+          <w:right w:w="108" w:type="dxa"/>
+        </w:tblCellMar>
+      </w:tblPr>
+    </w:style>
+    <w:style w:type="list" w:default="on" w:styleId="a2">
+      <w:name w:val="No List"/>
+      <wx:uiName wx:val="无列表"/>
+      <w:semiHidden/>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="a3">
+      <w:name w:val="header"/>
+      <wx:uiName wx:val="页眉"/>
+      <w:basedOn w:val="a"/>
+      <w:rsid w:val="006E66F3"/>
+      <w:pPr>
+        <w:pStyle w:val="a3"/>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="6" wx:bdrwidth="15" w:space="1" w:color="auto"/>
+        </w:pBdr>
+        <w:tabs>
+          <w:tab w:val="center" w:pos="4153"/>
+          <w:tab w:val="right" w:pos="8306"/>
+        </w:tabs>
+        <w:snapToGrid w:val="off"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman"/>
+        <w:sz w:val="18"/>
+        <w:sz-cs w:val="18"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="a4">
+      <w:name w:val="footer"/>
+      <wx:uiName wx:val="页脚"/>
+      <w:basedOn w:val="a"/>
+      <w:rsid w:val="006E66F3"/>
+      <w:pPr>
+        <w:pStyle w:val="a4"/>
+        <w:tabs>
+          <w:tab w:val="center" w:pos="4153"/>
+          <w:tab w:val="right" w:pos="8306"/>
+        </w:tabs>
+        <w:snapToGrid w:val="off"/>
+        <w:jc w:val="left"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman"/>
+        <w:sz w:val="18"/>
+        <w:sz-cs w:val="18"/>
+      </w:rPr>
+    </w:style>
+  </w:styles>
+  <w:shapeDefaults>
+    <o:shapedefaults v:ext="edit" spidmax="3074"/>
+    <o:shapelayout v:ext="edit">
+      <o:idmap v:ext="edit" data="2"/>
+    </o:shapelayout>
+  </w:shapeDefaults>
+  <w:docPr>
+    <w:view w:val="print"/>
+    <w:zoom w:percent="100"/>
+    <w:bordersDontSurroundHeader/>
+    <w:bordersDontSurroundFooter/>
+    <w:attachedTemplate w:val=""/>
+    <w:defaultTabStop w:val="425"/>
+    <w:drawingGridHorizontalSpacing w:val="105"/>
+    <w:drawingGridVerticalSpacing w:val="156"/>
+    <w:displayHorizontalDrawingGridEvery w:val="0"/>
+    <w:displayVerticalDrawingGridEvery w:val="2"/>
+    <w:punctuationKerning/>
+    <w:characterSpacingControl w:val="CompressPunctuation"/>
+    <w:optimizeForBrowser/>
+    <w:validateAgainstSchema/>
+    <w:saveInvalidXML w:val="off"/>
+    <w:ignoreMixedContent w:val="off"/>
+    <w:alwaysShowPlaceholderText w:val="off"/>
+    <w:hdrShapeDefaults>
+      <o:shapedefaults v:ext="edit" spidmax="3074"/>
+    </w:hdrShapeDefaults>
+    <w:footnotePr>
+      <w:footnote w:type="separator">
+        <w:p wsp:rsidR="005C5B0E" wsp:rsidRDefault="005C5B0E">
+          <w:r>
+            <w:separator/>
+          </w:r>
+        </w:p>
+      </w:footnote>
+      <w:footnote w:type="continuation-separator">
+        <w:p wsp:rsidR="005C5B0E" wsp:rsidRDefault="005C5B0E">
+          <w:r>
+            <w:continuationSeparator/>
+          </w:r>
+        </w:p>
+      </w:footnote>
+    </w:footnotePr>
+    <w:endnotePr>
+      <w:endnote w:type="separator">
+        <w:p wsp:rsidR="005C5B0E" wsp:rsidRDefault="005C5B0E">
+          <w:r>
+            <w:separator/>
+          </w:r>
+        </w:p>
+      </w:endnote>
+      <w:endnote w:type="continuation-separator">
+        <w:p wsp:rsidR="005C5B0E" wsp:rsidRDefault="005C5B0E">
+          <w:r>
+            <w:continuationSeparator/>
+          </w:r>
+        </w:p>
+      </w:endnote>
+    </w:endnotePr>
+    <w:compat>
+      <w:spaceForUL/>
+      <w:balanceSingleByteDoubleByteWidth/>
+      <w:doNotLeaveBackslashAlone/>
+      <w:ulTrailSpace/>
+      <w:doNotExpandShiftReturn/>
+      <w:footnoteLayoutLikeWW8/>
+      <w:shapeLayoutLikeWW8/>
+      <w:alignTablesRowByRow/>
+      <w:forgetLastTabAlignment/>
+      <w:doNotUseHTMLParagraphAutoSpacing/>
+      <w:layoutRawTableWidth/>
+      <w:layoutTableRowsApart/>
+      <w:useWord97LineBreakingRules/>
+      <w:dontAllowFieldEndSelect/>
+      <w:useWord2002TableStyleRules/>
+      <w:useFELayout/>
+    </w:compat>
+    <wsp:rsids>
+      <wsp:rsidRoot wsp:val="00BF3843"/>
+      <wsp:rsid wsp:val="00034E74"/>
+      <wsp:rsid wsp:val="0004404E"/>
+      <wsp:rsid wsp:val="00045D95"/>
+      <wsp:rsid wsp:val="00063E54"/>
+      <wsp:rsid wsp:val="0009171B"/>
+      <wsp:rsid wsp:val="000D1E29"/>
+      <wsp:rsid wsp:val="00152018"/>
+      <wsp:rsid wsp:val="00197CA5"/>
+      <wsp:rsid wsp:val="001A77E8"/>
+      <wsp:rsid wsp:val="002240BC"/>
+      <wsp:rsid wsp:val="00245EE3"/>
+      <wsp:rsid wsp:val="002C4FF9"/>
+      <wsp:rsid wsp:val="003800E9"/>
+      <wsp:rsid wsp:val="003D3F85"/>
+      <wsp:rsid wsp:val="003D612C"/>
+      <wsp:rsid wsp:val="00425A12"/>
+      <wsp:rsid wsp:val="0046610B"/>
+      <wsp:rsid wsp:val="004820C0"/>
+      <wsp:rsid wsp:val="004D4A95"/>
+      <wsp:rsid wsp:val="004F4677"/>
+      <wsp:rsid wsp:val="00542B82"/>
+      <wsp:rsid wsp:val="00550793"/>
+      <wsp:rsid wsp:val="00560362"/>
+      <wsp:rsid wsp:val="00576481"/>
+      <wsp:rsid wsp:val="005C5B0E"/>
+      <wsp:rsid wsp:val="0062376D"/>
+      <wsp:rsid wsp:val="00631023"/>
+      <wsp:rsid wsp:val="006E66F3"/>
+      <wsp:rsid wsp:val="006F0F5B"/>
+      <wsp:rsid wsp:val="00710E1A"/>
+      <wsp:rsid wsp:val="00723BD7"/>
+      <wsp:rsid wsp:val="00730B16"/>
+      <wsp:rsid wsp:val="0075342E"/>
+      <wsp:rsid wsp:val="007B3FA9"/>
+      <wsp:rsid wsp:val="007D7CC6"/>
+      <wsp:rsid wsp:val="00801E8C"/>
+      <wsp:rsid wsp:val="008407B7"/>
+      <wsp:rsid wsp:val="00841317"/>
+      <wsp:rsid wsp:val="008555BC"/>
+      <wsp:rsid wsp:val="008D285F"/>
+      <wsp:rsid wsp:val="00913D47"/>
+      <wsp:rsid wsp:val="009202C0"/>
+      <wsp:rsid wsp:val="00927610"/>
+      <wsp:rsid wsp:val="00951A0B"/>
+      <wsp:rsid wsp:val="0096292D"/>
+      <wsp:rsid wsp:val="009A2500"/>
+      <wsp:rsid wsp:val="009C4558"/>
+      <wsp:rsid wsp:val="00A62D18"/>
+      <wsp:rsid wsp:val="00A723E3"/>
+      <wsp:rsid wsp:val="00AA67D8"/>
+      <wsp:rsid wsp:val="00B262E0"/>
+      <wsp:rsid wsp:val="00B75C13"/>
+      <wsp:rsid wsp:val="00B83C69"/>
+      <wsp:rsid wsp:val="00BB7C86"/>
+      <wsp:rsid wsp:val="00BF3843"/>
+      <wsp:rsid wsp:val="00C049F2"/>
+      <wsp:rsid wsp:val="00C1706B"/>
+      <wsp:rsid wsp:val="00C23514"/>
+      <wsp:rsid wsp:val="00C508C0"/>
+      <wsp:rsid wsp:val="00C67CF8"/>
+      <wsp:rsid wsp:val="00C756BD"/>
+      <wsp:rsid wsp:val="00C75F73"/>
+      <wsp:rsid wsp:val="00C803A5"/>
+      <wsp:rsid wsp:val="00CB0CBE"/>
+      <wsp:rsid wsp:val="00CB2A53"/>
+      <wsp:rsid wsp:val="00D32E7D"/>
+      <wsp:rsid wsp:val="00D621B3"/>
+      <wsp:rsid wsp:val="00D64F50"/>
+      <wsp:rsid wsp:val="00DA09EC"/>
+      <wsp:rsid wsp:val="00DA0D85"/>
+      <wsp:rsid wsp:val="00DB6410"/>
+      <wsp:rsid wsp:val="00DC74AA"/>
+      <wsp:rsid wsp:val="00DD35D3"/>
+      <wsp:rsid wsp:val="00E7579C"/>
+      <wsp:rsid wsp:val="00E92804"/>
+      <wsp:rsid wsp:val="00E956F3"/>
+      <wsp:rsid wsp:val="00EC041B"/>
+      <wsp:rsid wsp:val="00F368E1"/>
+      <wsp:rsid wsp:val="00F75860"/>
+      <wsp:rsid wsp:val="00FD591C"/>
+      <wsp:rsid wsp:val="00FF1563"/>
+    </wsp:rsids>
+  </w:docPr>
+  <w:body>
+    <wx:sect>
+      <w:p wsp:rsidR="003D3F85" wsp:rsidRDefault="003D3F85" wsp:rsidP="00D621B3">
+        <w:pPr>
+          <w:spacing w:before-lines="100" w:after-lines="100" w:line="420" w:line-rule="auto"/>
+          <w:jc w:val="center"/>
+          <w:rPr>
+            <w:rFonts w:fareast="黑体" w:hint="fareast"/>
+            <w:b/>
+            <w:sz w:val="36"/>
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:rFonts w:fareast="黑体" w:hint="fareast"/>
+            <wx:font wx:val="黑体"/>
+            <w:b/>
+            <w:sz w:val="36"/>
+          </w:rPr>
+          <w:t>毕业论文（设计）</w:t>
+        </w:r>
+        <w:r wsp:rsidR="00E956F3">
+          <w:rPr>
+            <w:rFonts w:fareast="黑体" w:hint="fareast"/>
+            <wx:font wx:val="黑体"/>
+            <w:b/>
+            <w:sz w:val="36"/>
+          </w:rPr>
+          <w:t>课题登记表</w:t>
+        </w:r>
+      </w:p>
+      <w:tbl>
+        <w:tblPr>
+          <w:tblW w:w="0" w:type="auto"/>
+          <w:tblBorders>
+            <w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+            <w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+            <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+            <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+            <w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+            <w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+          </w:tblBorders>
+          <w:tblLayout w:type="Fixed"/>
+        </w:tblPr>
+        <w:tblGrid>
+          <w:gridCol w:w="736"/>
+          <w:gridCol w:w="737"/>
+          <w:gridCol w:w="420"/>
+          <w:gridCol w:w="1470"/>
+          <w:gridCol w:w="315"/>
+          <w:gridCol w:w="1365"/>
+          <w:gridCol w:w="105"/>
+          <w:gridCol w:w="2835"/>
+        </w:tblGrid>
+        <w:tr wsp:rsidR="0004404E" wsp:rsidTr="00FF1563">
+          <w:tblPrEx>
+            <w:tblCellMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+            </w:tblCellMar>
+          </w:tblPrEx>
+          <w:trPr>
+            <w:cantSplit/>
+            <w:trHeight w:val="530"/>
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1473" w:type="dxa"/>
+              <w:gridSpan w:val="2"/>
+              <w:tcBorders>
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+              </w:tcBorders>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="0004404E" wsp:rsidRDefault="0004404E" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>指导教师</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2205" w:type="dxa"/>
+              <w:gridSpan w:val="3"/>
+              <w:tcBorders>
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+              </w:tcBorders>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="0004404E" wsp:rsidRDefault="00C049F2" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>曾颖青</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1470" w:type="dxa"/>
+              <w:gridSpan w:val="2"/>
+              <w:tcBorders>
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+              </w:tcBorders>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="0004404E" wsp:rsidRDefault="00C75F73" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>职称</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2835" w:type="dxa"/>
+              <w:tcBorders>
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+              </w:tcBorders>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="0004404E" wsp:rsidRDefault="00C75F73" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>讲师</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr wsp:rsidR="008D285F" wsp:rsidTr="00560362">
+          <w:tblPrEx>
+            <w:tblCellMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+            </w:tblCellMar>
+          </w:tblPrEx>
+          <w:trPr>
+            <w:cantSplit/>
+            <w:trHeight w:val="453"/>
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1473" w:type="dxa"/>
+              <w:gridSpan w:val="2"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="008D285F" wsp:rsidRDefault="008D285F" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>课题名称</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="6510" w:type="dxa"/>
+              <w:gridSpan w:val="6"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="008D285F" wsp:rsidRDefault="00DA09EC" wsp:rsidP="00DA09EC">
+              <w:pPr>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[面向老年群体AI赋能陪诊助医服务系统的设计与实现]]></w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr wsp:rsidR="00DA09EC" wsp:rsidTr="00560362">
+          <w:tblPrEx>
+            <w:tblCellMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+            </w:tblCellMar>
+          </w:tblPrEx>
+          <w:trPr>
+            <w:cantSplit/>
+            <w:trHeight w:val="453"/>
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1473" w:type="dxa"/>
+              <w:gridSpan w:val="2"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00DA09EC" wsp:rsidRDefault="00DA09EC" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>课题类别</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="6510" w:type="dxa"/>
+              <w:gridSpan w:val="6"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00DA09EC" wsp:rsidRDefault="00DA09EC" wsp:rsidP="00DA09EC">
+              <w:pPr>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>毕业设计</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr wsp:rsidR="00DA09EC" wsp:rsidTr="00560362">
+          <w:tblPrEx>
+            <w:tblCellMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+            </w:tblCellMar>
+          </w:tblPrEx>
+          <w:trPr>
+            <w:cantSplit/>
+            <w:trHeight w:val="453"/>
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1473" w:type="dxa"/>
+              <w:gridSpan w:val="2"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00DA09EC" wsp:rsidRDefault="00DA09EC" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>起止时间</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="6510" w:type="dxa"/>
+              <w:gridSpan w:val="6"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00DA09EC" wsp:rsidRDefault="00DA09EC" wsp:rsidP="00DA09EC">
+              <w:pPr>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>2026.10.15-2027.4.30</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr wsp:rsidR="00DA09EC" wsp:rsidTr="00560362">
+          <w:tblPrEx>
+            <w:tblCellMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+            </w:tblCellMar>
+          </w:tblPrEx>
+          <w:trPr>
+            <w:cantSplit/>
+            <w:trHeight w:val="453"/>
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="6510" w:type="dxa"/>
+              <w:gridSpan w:val="8"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00DA09EC" wsp:rsidRDefault="00DA09EC" wsp:rsidP="00DA09EC">
+              <w:pPr>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>是否在实验、实习、工程实践和社会调查等社会实践中完成：否</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr wsp:rsidR="00576481" wsp:rsidTr="00576481">
+          <w:tblPrEx>
+            <w:tblCellMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+            </w:tblCellMar>
+          </w:tblPrEx>
+          <w:trPr>
+            <w:cantSplit/>
+            <w:trHeight w:val="453"/>
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1473" w:type="dxa"/>
+              <w:gridSpan w:val="2"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00576481" wsp:rsidRDefault="00576481" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>课题来源</w:t>
+              </w:r>
+            </w:p>
+            <w:p wsp:rsidR="00576481" wsp:rsidRDefault="00576481" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>其它 </w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="6510" w:type="dxa"/>
+              <w:gridSpan w:val="6"/>
+              <w:vmerge w:val="restart"/>
+              <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00576481" wsp:rsidRDefault="00576481" wsp:rsidP="00576481">
+              <w:pPr>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[1]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[.学术规范层面：参考文献需包含]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[Spring]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:fareast="宋体" w:cs="宋体" w:hint="fareast"/>
+                  <w:kern w:val="2"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+              </w:r>  
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[Boot]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[、前后端分离架构、]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[OCR]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[图像识别、大语言模型应用、智慧医疗与医疗信息化、老年人就医服务、医疗数据隐私保护等相关文献，数量≥]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[15]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[篇，其中核心期刊文献≥]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[3]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[篇；毕业设计说明书需阐述系统整体架构设计及主要功能模块的实现思路，重点说明外部]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[OCR]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[与大模型]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[API]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[的对接过程、医疗单据信息提取与诊前告知书生成及医嘱通俗化解读的实现方法，以及订单状态流转与病历隐私脱敏模块的设计；代码需遵循基本开发规范，接口设计合理，后端代码需具备一定注释说明，杜绝抄袭。]]></w:t>
+              </w:r>              
+            </w:p>
+            <w:p wsp:rsidR="00576481" wsp:rsidRDefault="00576481" wsp:rsidP="00576481">
+              <w:pPr>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[2]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[.技术与实践层面：技术实现应聚焦系统功能的完整性、]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[AI]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[辅助处理的准确性与运行稳定性。后端基于]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[Spring]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:fareast="宋体" w:cs="宋体" w:hint="fareast"/>
+                  <w:kern w:val="2"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+              </w:r>  
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[Boot]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[＋]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[MyBatis]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[-]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[Plus]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[＋]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[MySQL]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[实现业务逻辑与数据持久化，完成陪诊下单预约、订单状态管理、派单接单、费用结算、服务评价、医疗单据识别建档、就医电子档案管理、陪诊师资质审核、病历隐私脱敏、多角色账号鉴权等功能；前端采用]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[Vue]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[为家属、陪诊师、系统管理员三类使用者实现差异化交互界面，并针对老年用户群体做好适老化设计（界面简洁、字体醒目、操作流程精简）。需重点解决两个关键问题：一是外部]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[OCR]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[与大模型服务的稳定对接与逻辑封装，完成医疗单据信息提取、诊前就诊告知书生成、医嘱通俗化解读，合理处理调用超时、异常重试与服务降级，对识别与生成结果进行结构化解析、校验与兜底；二是设计陪诊订单发布、派单、接单、结算、评价闭环业务，明确订单状态流转规则，实现不同角色之间业务协同，同时完成医疗病历单据的隐私脱敏处理。系统面向老年群体提供就医辅助服务，须在界面与输出中明确]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[AI]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[生成内容仅供参考、不构成诊疗建议；实验数据使用自行构造的老年陪诊助医业务模拟数据集，单据样本须覆盖检验单、处方、病历等主要类型。数据库设计需保证订单状态、结算数据、电子档案与脱敏数据的一致性。需开展功能、性能、安全三类测试，校验业务流程完整性、多用户并发下系统稳定性，以及角色访问权限与医疗敏感信息脱敏机制的有效性（含]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[OCR]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[与大模型接口的并发调用与响应时效测试）。]]></w:t>
+              </w:r>              
+            </w:p>
+            <w:p wsp:rsidR="00576481" wsp:rsidRDefault="00576481" wsp:rsidP="00576481">
+              <w:pPr>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[3]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[.进度与沟通层面：]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[2026]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[年]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[12]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[月]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[31]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[日前完成需求分析与数据库设计，并提交相关设计文档；]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[2027]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[年]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[1]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[月]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[15]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[日前完成系统主要功能开发，形成可运行版本；]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[2027]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[年]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[3]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[月]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[20]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[日前完成系统测试与优化，并提交测试说明；开发过程中需定期汇报项目进展，及时反馈问题，并根据指导意见进行修改完善，确保各阶段任务按时完成。]]></w:t>
+              </w:r>              
+            </w:p>
+            <w:p wsp:rsidR="00576481" wsp:rsidRDefault="00576481" wsp:rsidP="00576481">
+              <w:pPr>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[4]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[.成果输出层面：提交不少于]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[10000]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[字的毕业设计说明书，包含系统流程图、]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[E]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[-]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[R]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:fareast="宋体" w:cs="宋体" w:hint="fareast"/>
+                  <w:kern w:val="2"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+              </w:r>  
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[图、核心功能代码说明及订单状态流转与隐私脱敏设计说明；提交完整源代码（前后端项目）、数据库脚本、模拟数据集及相关文档；演示视频需展示陪诊下单预约、派单接单、线上结算、服务评价、就医电子档案管理、]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[AI]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[单据识别与诊前告知书生成、医嘱通俗解读、陪诊师资质审核、隐私脱敏等核心功能及三类角色的管理后台；核心业务功能须全部通过测试，并达到多用户并发访问场景下稳定运行的指标。]]></w:t>
+              </w:r>              
+            </w:p>
+          </w:tc>
+        </w:tr>   
+        <w:tr wsp:rsidR="00BB7C86" wsp:rsidTr="00560362">
+          <w:trPr>
+            <w:trHeight w:val="453"/>
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="7983" w:type="dxa"/>
+              <w:gridSpan w:val="8"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00BB7C86" wsp:rsidRDefault="00BB7C86" wsp:rsidP="00C67CF8">
+              <w:pPr>
+                <w:spacing w:line="360" w:line-rule="auto"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>课题主要内容：</w:t>
+              </w:r>
+            </w:p>
+            <w:p wsp:rsidR="00152018" wsp:rsidRDefault="00C756BD" wsp:rsidP="00C43261">
+              <w:pPr>
+                <w:ind w:first-line-chars="131"/>
+                <w:rPr>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[针对当前老年群体独自就医流程繁琐、子女难以陪同就诊的现实痛点，本课题设计面向老年群体]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:fareast="宋体" w:cs="宋体" w:hint="fareast"/>
+                  <w:kern w:val="2"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+              </w:r>                
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[AI]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:fareast="宋体" w:cs="宋体" w:hint="fareast"/>
+                  <w:kern w:val="2"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+              </w:r>                
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[赋能陪诊助医服务系统，目标是实现陪诊服务订单预约、派单接单、线上结算评价、老人就医电子档案管理以及]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[AI]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[医疗辅助处理的完整业务流程。]]></w:t>
+              </w:r>              
+            </w:p>
+            <w:p wsp:rsidR="00152018" wsp:rsidRDefault="00C756BD" wsp:rsidP="00C43261">
+              <w:pPr>
+                <w:ind w:first-line-chars="131"/>
+                <w:rPr>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[主要研究内容包括：]]></w:t>
+              </w:r>              
+            </w:p>
+            <w:p wsp:rsidR="00152018" wsp:rsidRDefault="00C756BD" wsp:rsidP="00C43261">
+              <w:pPr>
+                <w:ind w:first-line-chars="131"/>
+                <w:rPr>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[1]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[.]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:fareast="宋体" w:cs="宋体" w:hint="fareast"/>
+                  <w:kern w:val="2"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+              </w:r>                
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[需求分析与规格梳理。调研家属、陪诊师、系统管理员三类使用者的业务诉求，梳理陪诊订单发布预约、派单接单、线上结算、服务评价、就医电子档案管理、]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[AI]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[单据识别与文档生成等业务，输出完整的需求规格说明。]]></w:t>
+              </w:r>              
+            </w:p>
+            <w:p wsp:rsidR="00152018" wsp:rsidRDefault="00C756BD" wsp:rsidP="00C43261">
+              <w:pPr>
+                <w:ind w:first-line-chars="131"/>
+                <w:rPr>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[2]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[.]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:fareast="宋体" w:cs="宋体" w:hint="fareast"/>
+                  <w:kern w:val="2"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+              </w:r>                
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[系统总体方案与架构设计。采用前后端分离架构，后端基于]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[Spring]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:fareast="宋体" w:cs="宋体" w:hint="fareast"/>
+                  <w:kern w:val="2"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+              </w:r>                
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[Boot]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[，封装]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[AI]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[调用逻辑，通过网络接口对接外部]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[OCR]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[与大模型]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[API]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[；使用]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[MyBatis]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[-]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[Plus]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[完成]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[MySQL]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[的数据持久化；基于]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[Vue]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[.]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[js]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[完成前端差异化交互页面的开发，完成数据库与各业务模块、隐私脱敏模块的设计。]]></w:t>
+              </w:r>              
+            </w:p>
+            <w:p wsp:rsidR="00152018" wsp:rsidRDefault="00C756BD" wsp:rsidP="00C43261">
+              <w:pPr>
+                <w:ind w:first-line-chars="131"/>
+                <w:rPr>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[3]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[.]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:fareast="宋体" w:cs="宋体" w:hint="fareast"/>
+                  <w:kern w:val="2"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+              </w:r>                
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[业务功能模块开发。分别开发家属模块、陪诊师模块、系统管理员模块、]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[AI]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[辅助服务模块以及登录注册模块，实现陪诊下单预约、订单状态管理、费用结算、服务评价、医疗单据识别建档、诊前告知书生成、医嘱通俗解读、陪诊师资质审核、病历隐私脱敏、多角色账号鉴权等各项具体业务，搭建完整业务处理流程。]]></w:t>
+              </w:r>              
+            </w:p>
+            <w:p wsp:rsidR="00152018" wsp:rsidRDefault="00C756BD" wsp:rsidP="00C43261">
+              <w:pPr>
+                <w:ind w:first-line-chars="131"/>
+                <w:rPr>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[4]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[.]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:fareast="宋体" w:cs="宋体" w:hint="fareast"/>
+                  <w:kern w:val="2"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+              </w:r>                
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[系统测试与验证工作。依次开展功能、性能、安全三类测试，校验全部业务流程完整性、多用户并发下系统稳定性以及角色访问权限、医疗敏感信息脱敏机制的有效性，完成系统调试。]]></w:t>
+              </w:r>              
+            </w:p>
+            <w:p wsp:rsidR="00152018" wsp:rsidRDefault="00C756BD" wsp:rsidP="00C43261">
+              <w:pPr>
+                <w:ind w:first-line-chars="131"/>
+                <w:rPr>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[拟解决的关键问题：一是对接外部]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[OCR]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[图像识别与大模型服务，完成医疗单据信息提取、诊前就诊告知书生成、医嘱通俗化解读的逻辑封装；二是设计陪诊订单发布、派单、接单、结算、评价闭环业务，实现不同角色之间业务协同，同时完成医疗病历单据的隐私脱敏处理，保障老人就医隐私安全。]]></w:t>
+              </w:r>              
+            </w:p>
+            <w:p wsp:rsidR="00152018" wsp:rsidRDefault="00C756BD" wsp:rsidP="00C43261">
+              <w:pPr>
+                <w:ind w:first-line-chars="131"/>
+                <w:rPr>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[预期成果：完成毕业设计说明书一篇，实现可运行的面向老年群体]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[AI]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[赋能陪诊助医服务系统一套，系统各项业务功能验证通过，达到多用户并发访问场景下稳定运行的指标。]]></w:t>
+              </w:r>              
+            </w:p>
+            <w:p wsp:rsidR="00152018" wsp:rsidRDefault="00C756BD" wsp:rsidP="00C43261">
+              <w:pPr>
+                <w:ind w:first-line-chars="131"/>
+                <w:rPr>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[研究条件：数据来源于自行构造的老年陪诊助医业务模拟数据集，实验环境为]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[SpringBoot]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[+]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[MySQL]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[+]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[Vue]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[.]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[js]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[开发环境，可调用公开]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[OCR]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[、大模型的网络]]></w:t>
+              </w:r>              
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:hint="fareast"/>
+                  <w:sz w:val="21"/>
+                  <w:sz-cs w:val="21"/>
+                  <w:lang w:val="EN-US" w:fareast="ZH-CN"/>
+                </w:rPr>
+                <w:t><![CDATA[API]]></w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t><![CDATA[服务，具备完成条件。]]></w:t>
+              </w:r>              
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr wsp:rsidR="009C4558" wsp:rsidTr="00560362">
+          <w:tblPrEx>
+            <w:tblCellMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+            </w:tblCellMar>
+          </w:tblPrEx>
+          <w:trPr>
+            <w:cantSplit/>
+            <w:trHeight w:val="453"/>
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="7983" w:type="dxa"/>
+              <w:gridSpan w:val="8"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="009C4558" wsp:rsidRPr="009C4558" wsp:rsidRDefault="009C4558" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                  <w:sz-cs w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r wsp:rsidRPr="009C4558">
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                  <w:sz-cs w:val="24"/>
+                </w:rPr>
+                <w:t>安排学生情况</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr wsp:rsidR="00FF1563" wsp:rsidTr="00B75C13">
+          <w:tblPrEx>
+            <w:tblCellMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+            </w:tblCellMar>
+          </w:tblPrEx>
+          <w:trPr>
+            <w:cantSplit/>
+            <w:trHeight w:val="453"/>
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1893" w:type="dxa"/>
+              <w:gridSpan w:val="3"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00FF1563" wsp:rsidRDefault="00FF1563" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>姓名</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1470" w:type="dxa"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00FF1563" wsp:rsidRDefault="00951A0B" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>学号</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1680" w:type="dxa"/>
+              <w:gridSpan w:val="2"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00FF1563" wsp:rsidRDefault="00951A0B" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>班级</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2940" w:type="dxa"/>
+              <w:gridSpan w:val="2"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00FF1563" wsp:rsidRDefault="00951A0B" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>学生应完成的主要任务</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr wsp:rsidR="00DB6410" wsp:rsidTr="00B75C13">
+          <w:tblPrEx>
+            <w:tblCellMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+            </w:tblCellMar>
+          </w:tblPrEx>
+          <w:trPr>
+            <w:cantSplit/>
+            <w:trHeight w:val="453"/>
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1893" w:type="dxa"/>
+              <w:gridSpan w:val="3"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00DB6410" wsp:rsidRDefault="00F368E1" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>蒋万东</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1470" w:type="dxa"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00DB6410" wsp:rsidRDefault="00F368E1" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>423450317</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1680" w:type="dxa"/>
+              <w:gridSpan w:val="2"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00DB6410" wsp:rsidRDefault="00F368E1" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>23本软件工程3班</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2940" w:type="dxa"/>
+              <w:gridSpan w:val="2"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="00DB6410" wsp:rsidRDefault="008F3BA2" wsp:rsidP="00C803A5">
+              <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>（1）查阅相关文献资料，收集数据（2）完成开题报告（3）完成系统开发设计、系统测试，确保系统正常运行。（4）完成一份不少于10000字的毕业设计说明书。</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+			
+		
+			
+		
+			
+		
+        <w:tr wsp:rsidR="0075342E" wsp:rsidTr="00560362">
+          <w:tblPrEx>
+            <w:tblCellMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+            </w:tblCellMar>
+          </w:tblPrEx>
+          <w:trPr>
+            <w:cantSplit/>
+            <w:trHeight w:val="453"/>
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="7983" w:type="dxa"/>
+              <w:gridSpan w:val="8"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="0075342E" wsp:rsidRDefault="0075342E" wsp:rsidP="00DD35D3">
+              <w:pPr>
+                <w:rPr>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>系（教研室）意见：</w:t>
+              </w:r>
+            </w:p>
+            <w:p wsp:rsidR="0075342E" wsp:rsidRDefault="0075342E" wsp:rsidP="00061B94">
+              <w:pPr>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+            </w:p>
+            <w:p wsp:rsidR="00804703" wsp:rsidRDefault="00804703" wsp:rsidP="00061B94">
+              <w:pPr>
+                <w:ind w:first-line-chars="175"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                  <w:sz-cs w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r wsp:rsidRPr="00B262E0">
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                  <w:sz-cs w:val="24"/>
+                </w:rPr>
+                <w:t>同意</w:t>
+              </w:r>
+            </w:p>
+            <w:p wsp:rsidR="00804703" wsp:rsidRPr="00804703" wsp:rsidRDefault="00804703" wsp:rsidP="00061B94">
+              <w:pPr>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+            </w:p>
+            <w:p wsp:rsidR="00063E54" wsp:rsidRDefault="00063E54" wsp:rsidP="00DA0D85">
+              <w:pPr>
+                <w:wordWrap w:val="off"/>
+                <w:spacing w:line="360" w:line-rule="auto"/>
+                <w:jc w:val="right"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>系（教研室）主任：翟建丽</w:t>
+              </w:r>
+              <w:r wsp:rsidR="00E7579C">
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t></w:t>
+              </w:r>
+              <w:r wsp:rsidR="00DA0D85">
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t></w:t>
+              </w:r>
+            </w:p>
+            <w:p wsp:rsidR="00063E54" wsp:rsidRDefault="00C23514" wsp:rsidP="00730B16">
+              <w:pPr>
+                <w:jc w:val="right"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>2026年10月25日</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr wsp:rsidR="0075342E" wsp:rsidTr="00560362">
+          <w:tblPrEx>
+            <w:tblCellMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+            </w:tblCellMar>
+          </w:tblPrEx>
+          <w:trPr>
+            <w:cantSplit/>
+            <w:trHeight w:val="453"/>
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="7983" w:type="dxa"/>
+              <w:gridSpan w:val="8"/>
+              <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p wsp:rsidR="0075342E" wsp:rsidRDefault="0075342E" wsp:rsidP="00DD35D3">
+              <w:pPr>
+                <w:rPr>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>学院审查意见：</w:t>
+              </w:r>
+            </w:p>
+            <w:p wsp:rsidR="0075342E" wsp:rsidRDefault="0075342E" wsp:rsidP="00061B94">
+              <w:pPr>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+            </w:p>
+            <w:p wsp:rsidR="00804703" wsp:rsidRDefault="00804703" wsp:rsidP="00061B94">
+              <w:pPr>
+                <w:ind w:first-line-chars="175"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                  <w:sz-cs w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r wsp:rsidRPr="00B262E0">
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                  <w:sz-cs w:val="24"/>
+                </w:rPr>
+                <w:t>同意</w:t>
+              </w:r>
+            </w:p>
+            <w:p wsp:rsidR="00804703" wsp:rsidRPr="00804703" wsp:rsidRDefault="00804703" wsp:rsidP="00061B94">
+              <w:pPr>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+            </w:p>
+            <w:p wsp:rsidR="00063E54" wsp:rsidRDefault="00063E54" wsp:rsidP="00DA0D85">
+              <w:pPr>
+                <w:wordWrap w:val="off"/>
+                <w:spacing w:line="360" w:line-rule="auto"/>
+                <w:jc w:val="right"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>主管院长：杨本胜</w:t>
+              </w:r>
+              <w:r wsp:rsidR="00E7579C">
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t></w:t>
+              </w:r>
+              <w:r wsp:rsidR="00DA0D85">
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t></w:t>
+              </w:r>
+            </w:p>
+            <w:p wsp:rsidR="00063E54" wsp:rsidRDefault="00C23514" wsp:rsidP="00730B16">
+              <w:pPr>
+                <w:jc w:val="right"/>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:hint="fareast"/>
+                  <wx:font wx:val="宋体"/>
+                  <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>2026年10月27日</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+      </w:tbl>
+      <w:sectPr wsp:rsidR="007B3FA9" wsp:rsidRPr="00B262E0" wsp:rsidSect="00063E54">
+        <w:hdr w:type="odd">
+          <w:p wsp:rsidR="00550793" wsp:rsidRDefault="00550793" wsp:rsidP="006E66F3">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:pBdr>
+                <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/>
+              </w:pBdr>
+            </w:pPr>
+          </w:p>
+        </w:hdr>
+        <w:pgSz w:w="10433" w:h="14742"/>
+        <w:pgMar w:top="873" w:right="1230" w:bottom="873" w:left="1230" w:header="851" w:footer="992" w:gutter="0"/>
+        <w:cols w:space="425"/>
+        <w:docGrid w:type="lines" w:line-pitch="312"/>
+      </w:sectPr>
+    </wx:sect>
+  </w:body>
+</w:wordDocument>

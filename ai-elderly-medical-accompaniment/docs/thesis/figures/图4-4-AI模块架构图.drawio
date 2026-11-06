@@ -1,0 +1,38 @@
+<mxfile host="app.diagrams.net" agent="thesis-review" version="24.0.0">
+  <diagram id="ai-arch" name="图4-4 AI模块架构图">
+    <mxGraphModel dx="1200" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="ctl" value="控制器层（表4-9：12个REST端点）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=13;fillColor=#E3F2FD;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="920" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="c1" value="AiController（7端点）&lt;br&gt;①OCR识别提交 ②任务轮询 ③人工确认&lt;br&gt;④告知书生成 ⑤医嘱解读生成&lt;br&gt;⑥内容查询（服务层归属校验） ⑦人工复核（ADMIN）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;" vertex="1" parent="1"><mxGeometry x="60" y="75" width="430" height="100" as="geometry"/></mxCell>
+        <mxCell id="c2" value="AiChatController（5端点，FAMILY，/api/ai/chat）&lt;br&gt;⑧创建会话 ⑨会话列表 ⑩历史消息&lt;br&gt;⑪删除会话 ⑫发送消息（SSE流式返回，&lt;br&gt;produces=text/event-stream，前端逐字显示）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;" vertex="1" parent="1"><mxGeometry x="510" y="75" width="430" height="100" as="geometry"/></mxCell>
+        <mxCell id="a1" value="" style="html=1;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry"><mxPoint x="500" y="190" as="sourcePoint"/><mxPoint x="500" y="245" as="targetPoint"/></mxGeometry>
+        </mxCell>
+        <mxCell id="svc" value="AiServiceImpl ／ AiChatServiceImpl（工程化保障层，机制1~9见4.4.2）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=13;fillColor=#E8F5E9;strokeColor=#82B366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="245" width="920" height="330" as="geometry"/>
+        </mxCell>
+        <mxCell id="m1" value="机制1 AiHttpClient双实例&lt;br&gt;OCR readTimeout=15s&lt;br&gt;LLM readTimeout=30s&lt;br&gt;连接池5·保活5min" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82B366;fontSize=11;" vertex="1" parent="1"><mxGeometry x="60" y="285" width="280" height="75" as="geometry"/></mxCell>
+        <mxCell id="m2" value="机制2 超时控制&lt;br&gt;connectTimeout=3s&lt;br&gt;AiTimeoutException（含状态码）&lt;br&gt;计入熔断失败计数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82B366;fontSize=11;" vertex="1" parent="1"><mxGeometry x="360" y="285" width="280" height="75" as="geometry"/></mxCell>
+        <mxCell id="m3" value="机制3 指数退避重试&lt;br&gt;1s→2s→4s，最多3次&lt;br&gt;仅超时/5xx/429&lt;br&gt;4xx不重试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82B366;fontSize=11;" vertex="1" parent="1"><mxGeometry x="660" y="285" width="280" height="75" as="geometry"/></mxCell>
+        <mxCell id="m4" value="机制4 SimpleCircuitBreaker&lt;br&gt;连续5次失败→OPEN降级&lt;br&gt;60s半开试探&lt;br&gt;本地内存实现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82B366;fontSize=11;" vertex="1" parent="1"><mxGeometry x="60" y="375" width="280" height="75" as="geometry"/></mxCell>
+        <mxCell id="m5" value="机制5 异步线程池（表4-6）&lt;br&gt;core 4 / max 8 / queue 50&lt;br&gt;CallerRunsPolicy&lt;br&gt;提交即返taskId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82B366;fontSize=11;" vertex="1" parent="1"><mxGeometry x="360" y="375" width="280" height="75" as="geometry"/></mxCell>
+        <mxCell id="m6" value="机制6 幂等查重&lt;br&gt;(bizId + taskType)&lt;br&gt;RUNNING返原taskId&lt;br&gt;SUCCESS返原结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82B366;fontSize=11;" vertex="1" parent="1"><mxGeometry x="660" y="375" width="280" height="75" as="geometry"/></mxCell>
+        <mxCell id="m8" value="机制8 调用审计 ai_task表&lt;br&gt;SHA-256哈希值前16位&lt;br&gt;不存明文全文&lt;br&gt;耗时/重试次数/状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82B366;fontSize=11;" vertex="1" parent="1"><mxGeometry x="60" y="465" width="280" height="75" as="geometry"/></mxCell>
+        <mxCell id="m7" value="机制7 结果校验&lt;br&gt;OCR：JSON结构+必填+置信度0.85&lt;br&gt;LLM：非空+长度上限&lt;br&gt;低置信度→待人工确认" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82B366;fontSize=11;" vertex="1" parent="1"><mxGeometry x="360" y="465" width="280" height="75" as="geometry"/></mxCell>
+        <mxCell id="m9" value="机制9 免责声明强制注入&lt;br&gt;“AI生成内容仅供参考，&lt;br&gt;不构成任何诊疗建议”&lt;br&gt;落库+前端醒目样式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82B366;fontSize=11;" vertex="1" parent="1"><mxGeometry x="660" y="465" width="280" height="75" as="geometry"/></mxCell>
+        <mxCell id="reuse" value="AI对话复用范围：机制1（HTTP客户端）、机制4（LLM熔断）、机制9（免责声明）；因SSE流式响应以连接为单位、中断即失败，机制3/5/6/8不适用于该场景（见4.4.1）。" style="text;html=1;fontSize=11;align=left;whiteSpace=wrap;fillColor=#FFF2CC;strokeColor=#D6B656;" vertex="1" parent="1"><mxGeometry x="60" y="545" width="880" height="25" as="geometry"/></mxCell>
+        <mxCell id="a2" value="HTTP（OkHttp）" style="html=1;endArrow=block;fontSize=11;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry"><mxPoint x="500" y="575" as="sourcePoint"/><mxPoint x="500" y="640" as="targetPoint"/></mxGeometry>
+        </mxCell>
+        <mxCell id="ext" value="外部AI服务：${AI_OCR_BASE_URL} ／ ${AI_LLM_BASE_URL}&lt;br&gt;【待Mock验收后据实填写：接入方式与联调口径（批次B项，验收前不写任何推测内容）】" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;dashed=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="920" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="dbnote" value="落库：ai_task（审计） · ai_generated_content（告知书/解读＋disclaimer） · medical_document（OCR结果） · ai_chat_session／ai_chat_message（对话，E14/E15）" style="text;html=1;fontSize=11;align=left;whiteSpace=wrap;fillColor=#F5F5F5;strokeColor=#999999;" vertex="1" parent="1"><mxGeometry x="40" y="730" width="920" height="40" as="geometry"/></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

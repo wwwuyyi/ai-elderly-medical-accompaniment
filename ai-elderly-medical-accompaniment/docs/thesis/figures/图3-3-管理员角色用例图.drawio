@@ -1,0 +1,30 @@
+<mxfile host="app.diagrams.net" agent="thesis-review" version="24.0.0">
+  <diagram id="uc-admin" name="图3-3 管理员角色用例图">
+    <mxGraphModel dx="1000" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="boundary" value="AI赋能陪诊助医服务系统（管理端）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="440" height="490" as="geometry"/>
+        </mxCell>
+        <mxCell id="actor" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="40" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc1" value="UC-A-01 登录与密码管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;" vertex="1" parent="1"><mxGeometry x="330" y="80" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc2" value="UC-A-02 运营看板（今日/待审核/7日趋势）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;" vertex="1" parent="1"><mxGeometry x="330" y="138" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc3" value="UC-A-03 资质审核（含idCard解密核对）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;" vertex="1" parent="1"><mxGeometry x="330" y="196" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc4" value="UC-A-04 用户管理（启用/禁用）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;" vertex="1" parent="1"><mxGeometry x="330" y="254" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc5" value="UC-A-05 订单管理（派单/结算）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;" vertex="1" parent="1"><mxGeometry x="330" y="312" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc6" value="UC-A-06 评价管理（隐藏违规）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;" vertex="1" parent="1"><mxGeometry x="330" y="370" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="uc7" value="UC-A-07 档案脱敏预览" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;" vertex="1" parent="1"><mxGeometry x="330" y="428" width="260" height="44" as="geometry"/></mxCell>
+        <mxCell id="e1" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc1"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e2" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc2"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e3" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc3"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e4" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc4"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e5" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc5"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e6" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc6"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e7" style="html=1;endArrow=none;" edge="1" parent="1" source="actor" target="uc7"><mxGeometry relative="1" as="geometry"/></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
